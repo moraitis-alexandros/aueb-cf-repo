@@ -32,8 +32,8 @@ The application:
 ## Installation & Deployment
 
 ### 1. Configure JWT Token
-
-In `JwtService`, paste the jwt provided.
+ 
+In `JwtService.java` class, paste the jwt provided.
 
 In koukouDB, koukouUser, koukouPassword paste the credentials provided
 
