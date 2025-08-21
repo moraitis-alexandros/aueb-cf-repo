@@ -1,5 +1,3 @@
-Here’s your project description translated and polished in **English**:
-
 ---
 
 # Simple Routing App
