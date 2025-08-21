@@ -2,7 +2,7 @@
 
 For the needs of the project, a simple routing application was developed.
 The user can load available vehicles, select a starting location, and choose the nodes they want to visit.
-
+![img.png](img.png)
 The application:
 
 * fetches data from the **OpenMap API**,
