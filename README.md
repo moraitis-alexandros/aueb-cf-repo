@@ -1,5 +1,3 @@
----
-
 # Simple Routing App
 
 For the needs of the project, a simple routing application was developed.
